@@ -1,0 +1,1 @@
+"""AI assistant microservice package."""
